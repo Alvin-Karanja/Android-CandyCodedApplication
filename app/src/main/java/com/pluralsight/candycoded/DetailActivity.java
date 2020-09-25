@@ -77,4 +77,8 @@ public class DetailActivity extends AppCompatActivity {
     public boolean onOptionsItemSelected(MenuItem item) {
         return super.onOptionsItemSelected(item);
     }
+
+    public void createShareIntent() {
+
+    }
 }
