@@ -11,7 +11,6 @@
   <component name="ChangeListManager">
     <list default="true" id="0b7633b6-91c2-4d9c-80c2-5897a3f35d39" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -198,7 +197,21 @@
       <option name="project" value="LOCAL" />
       <updated>1601021703823</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Check that an Activity Exists to Handle the Intent">
+      <created>1601021927955</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1601021927955</updated>
+    </task>
+    <task id="LOCAL-00008" summary="start the activity">
+      <created>1601021987696</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1601021987696</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -207,13 +220,15 @@
     <MESSAGE value="Make createMapIntent(View view)" />
     <MESSAGE value="Create a Uri for the Address" />
     <MESSAGE value="Set the ACTION_VIEW Intent" />
-    <option name="LAST_COMMIT_MESSAGE" value="Set the ACTION_VIEW Intent" />
+    <MESSAGE value="Check that an Activity Exists to Handle the Intent" />
+    <MESSAGE value="start the activity" />
+    <option name="LAST_COMMIT_MESSAGE" value="start the activity" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="189" y="27" width="1050" height="741" key="CommitChangelistDialog2" timestamp="1601021927802">
+    <state x="189" y="27" width="1050" height="741" key="CommitChangelistDialog2" timestamp="1601021987576">
       <screen x="72" y="27" width="1294" height="741" />
     </state>
-    <state x="189" y="27" width="1050" height="741" key="CommitChangelistDialog2/72.27.1294.741@72.27.1294.741" timestamp="1601021927802" />
+    <state x="189" y="27" width="1050" height="741" key="CommitChangelistDialog2/72.27.1294.741@72.27.1294.741" timestamp="1601021987576" />
     <state width="1248" height="172" key="GridCell.Tab.0.bottom" timestamp="1601018102716">
       <screen x="72" y="27" width="1294" height="741" />
     </state>
