@@ -275,7 +275,28 @@
       <option name="project" value="LOCAL" />
       <updated>1601023167110</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Create an ACTION_SEND Intent">
+      <created>1601023324535</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1601023324535</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Set the Type for the Intent">
+      <created>1601023376494</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1601023376494</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Use putExtra() to Pass Data with the Intent">
+      <created>1601023512890</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1601023512890</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -292,13 +313,16 @@
     <MESSAGE value="Create TextView Click Handler" />
     <MESSAGE value="Override onOptionsItemSelected(MenuItem item) in the DetailActivity" />
     <MESSAGE value="Make createShareIntent()" />
-    <option name="LAST_COMMIT_MESSAGE" value="Make createShareIntent()" />
+    <MESSAGE value="Create an ACTION_SEND Intent" />
+    <MESSAGE value="Set the Type for the Intent" />
+    <MESSAGE value="Use putExtra() to Pass Data with the Intent" />
+    <option name="LAST_COMMIT_MESSAGE" value="Use putExtra() to Pass Data with the Intent" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="189" y="27" width="1050" height="741" key="CommitChangelistDialog2" timestamp="1601023376362">
+    <state x="189" y="27" width="1050" height="741" key="CommitChangelistDialog2" timestamp="1601023512788">
       <screen x="72" y="27" width="1294" height="741" />
     </state>
-    <state x="189" y="27" width="1050" height="741" key="CommitChangelistDialog2/72.27.1294.741@72.27.1294.741" timestamp="1601023376362" />
+    <state x="189" y="27" width="1050" height="741" key="CommitChangelistDialog2/72.27.1294.741@72.27.1294.741" timestamp="1601023512788" />
     <state width="1248" height="172" key="GridCell.Tab.0.bottom" timestamp="1601018102716">
       <screen x="72" y="27" width="1294" height="741" />
     </state>
