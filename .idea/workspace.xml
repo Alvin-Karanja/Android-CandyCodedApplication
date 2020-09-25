@@ -296,7 +296,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601023512890</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="start the activity">
+      <created>1601023565304</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1601023565305</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -309,20 +316,20 @@
     <MESSAGE value="Make createPhoneIntent(View view)" />
     <MESSAGE value="Create an ACTION_DIAL Intent" />
     <MESSAGE value="Set the Intent Data" />
-    <MESSAGE value="start the activity" />
     <MESSAGE value="Create TextView Click Handler" />
     <MESSAGE value="Override onOptionsItemSelected(MenuItem item) in the DetailActivity" />
     <MESSAGE value="Make createShareIntent()" />
     <MESSAGE value="Create an ACTION_SEND Intent" />
     <MESSAGE value="Set the Type for the Intent" />
     <MESSAGE value="Use putExtra() to Pass Data with the Intent" />
-    <option name="LAST_COMMIT_MESSAGE" value="Use putExtra() to Pass Data with the Intent" />
+    <MESSAGE value="start the activity" />
+    <option name="LAST_COMMIT_MESSAGE" value="start the activity" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="189" y="27" width="1050" height="741" key="CommitChangelistDialog2" timestamp="1601023512788">
+    <state x="189" y="27" width="1050" height="741" key="CommitChangelistDialog2" timestamp="1601023565176">
       <screen x="72" y="27" width="1294" height="741" />
     </state>
-    <state x="189" y="27" width="1050" height="741" key="CommitChangelistDialog2/72.27.1294.741@72.27.1294.741" timestamp="1601023512788" />
+    <state x="189" y="27" width="1050" height="741" key="CommitChangelistDialog2/72.27.1294.741@72.27.1294.741" timestamp="1601023565176" />
     <state width="1248" height="172" key="GridCell.Tab.0.bottom" timestamp="1601018102716">
       <screen x="72" y="27" width="1294" height="741" />
     </state>
@@ -339,10 +346,10 @@
       <screen x="72" y="27" width="1294" height="741" />
     </state>
     <state width="1248" height="172" key="GridCell.Tab.0.right/72.27.1294.741@72.27.1294.741" timestamp="1601018102715" />
-    <state x="314" y="133" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1601022657453">
+    <state x="314" y="133" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1601023579120">
       <screen x="72" y="27" width="1294" height="741" />
     </state>
-    <state x="314" y="133" width="800" height="535" key="Vcs.Push.Dialog.v2/72.27.1294.741@72.27.1294.741" timestamp="1601022657453" />
+    <state x="314" y="133" width="800" height="535" key="Vcs.Push.Dialog.v2/72.27.1294.741@72.27.1294.741" timestamp="1601023579120" />
     <state x="375" y="225" key="com.intellij.ide.util.TipDialog" timestamp="1601020175915">
       <screen x="72" y="27" width="1294" height="741" />
     </state>
