@@ -29,7 +29,7 @@ public class InfoActivity extends AppCompatActivity {
     // ***
 
     public void createMapIntent(View view) {
-        
+
     }
 
     // ***
