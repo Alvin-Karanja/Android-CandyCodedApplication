@@ -170,19 +170,50 @@
       <option name="project" value="LOCAL" />
       <updated>1601021047457</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Make createMapIntent(View view)">
+      <created>1601021506098</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1601021506098</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Make createMapIntent(View view)">
+      <created>1601021519377</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1601021519377</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Create a Uri for the Address">
+      <created>1601021559986</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1601021559986</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Set the ACTION_VIEW Intent">
+      <created>1601021703823</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1601021703823</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Update gradle file" />
     <MESSAGE value="Start the Store Information Activity" />
-    <option name="LAST_COMMIT_MESSAGE" value="Start the Store Information Activity" />
+    <MESSAGE value="Make createMapIntent(View view)" />
+    <MESSAGE value="Create a Uri for the Address" />
+    <MESSAGE value="Set the ACTION_VIEW Intent" />
+    <option name="LAST_COMMIT_MESSAGE" value="Set the ACTION_VIEW Intent" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="189" y="27" width="1050" height="741" key="CommitChangelistDialog2" timestamp="1601021559837">
+    <state x="189" y="27" width="1050" height="741" key="CommitChangelistDialog2" timestamp="1601021703634">
       <screen x="72" y="27" width="1294" height="741" />
     </state>
-    <state x="189" y="27" width="1050" height="741" key="CommitChangelistDialog2/72.27.1294.741@72.27.1294.741" timestamp="1601021559837" />
+    <state x="189" y="27" width="1050" height="741" key="CommitChangelistDialog2/72.27.1294.741@72.27.1294.741" timestamp="1601021703634" />
     <state width="1248" height="172" key="GridCell.Tab.0.bottom" timestamp="1601018102716">
       <screen x="72" y="27" width="1294" height="741" />
     </state>
