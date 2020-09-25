@@ -11,7 +11,7 @@
   <component name="ChangeListManager">
     <list default="true" id="0b7633b6-91c2-4d9c-80c2-5897a3f35d39" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/DetailActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/DetailActivity.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -240,7 +240,28 @@
       <option name="project" value="LOCAL" />
       <updated>1601022473738</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="start the activity">
+      <created>1601022544469</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1601022544469</updated>
+    </task>
+    <task id="LOCAL-00014" summary="start the activity">
+      <created>1601022575691</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1601022575691</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Create TextView Click Handler">
+      <created>1601022639972</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1601022639972</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -250,18 +271,18 @@
     <MESSAGE value="Create a Uri for the Address" />
     <MESSAGE value="Set the ACTION_VIEW Intent" />
     <MESSAGE value="Check that an Activity Exists to Handle the Intent" />
-    <MESSAGE value="start the activity" />
-    <MESSAGE value="Create TextView Click Handler" />
     <MESSAGE value="Make createPhoneIntent(View view)" />
     <MESSAGE value="Create an ACTION_DIAL Intent" />
     <MESSAGE value="Set the Intent Data" />
-    <option name="LAST_COMMIT_MESSAGE" value="Set the Intent Data" />
+    <MESSAGE value="start the activity" />
+    <MESSAGE value="Create TextView Click Handler" />
+    <option name="LAST_COMMIT_MESSAGE" value="Create TextView Click Handler" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="189" y="27" width="1050" height="741" key="CommitChangelistDialog2" timestamp="1601022575596">
+    <state x="189" y="27" width="1050" height="741" key="CommitChangelistDialog2" timestamp="1601022639864">
       <screen x="72" y="27" width="1294" height="741" />
     </state>
-    <state x="189" y="27" width="1050" height="741" key="CommitChangelistDialog2/72.27.1294.741@72.27.1294.741" timestamp="1601022575596" />
+    <state x="189" y="27" width="1050" height="741" key="CommitChangelistDialog2/72.27.1294.741@72.27.1294.741" timestamp="1601022639864" />
     <state width="1248" height="172" key="GridCell.Tab.0.bottom" timestamp="1601018102716">
       <screen x="72" y="27" width="1294" height="741" />
     </state>
@@ -278,10 +299,10 @@
       <screen x="72" y="27" width="1294" height="741" />
     </state>
     <state width="1248" height="172" key="GridCell.Tab.0.right/72.27.1294.741@72.27.1294.741" timestamp="1601018102715" />
-    <state x="314" y="133" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1601022120769">
+    <state x="314" y="133" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1601022657453">
       <screen x="72" y="27" width="1294" height="741" />
     </state>
-    <state x="314" y="133" width="800" height="535" key="Vcs.Push.Dialog.v2/72.27.1294.741@72.27.1294.741" timestamp="1601022120769" />
+    <state x="314" y="133" width="800" height="535" key="Vcs.Push.Dialog.v2/72.27.1294.741@72.27.1294.741" timestamp="1601022657453" />
     <state x="375" y="225" key="com.intellij.ide.util.TipDialog" timestamp="1601020175915">
       <screen x="72" y="27" width="1294" height="741" />
     </state>
