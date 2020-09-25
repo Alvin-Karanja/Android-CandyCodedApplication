@@ -65,7 +65,7 @@
     <property name="show.do.not.ask.upgrade.gradle.plugin.version" value="3.5.1" />
     <property name="show.do.not.ask.upgrade.gradle.version" value="5.4.1" />
   </component>
-  <component name="RunManager" selected="Android JUnit.com.pluralsight.candycoded in app">
+  <component name="RunManager" selected="Android App.app">
     <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
       <option name="TEST_OBJECT" value="class" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
@@ -326,10 +326,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="start the activity" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="189" y="27" width="1050" height="741" key="CommitChangelistDialog2" timestamp="1601023565176">
+    <state x="189" y="27" width="1050" height="741" key="CommitChangelistDialog2" timestamp="1601023867157">
       <screen x="72" y="27" width="1294" height="741" />
     </state>
-    <state x="189" y="27" width="1050" height="741" key="CommitChangelistDialog2/72.27.1294.741@72.27.1294.741" timestamp="1601023565176" />
+    <state x="189" y="27" width="1050" height="741" key="CommitChangelistDialog2/72.27.1294.741@72.27.1294.741" timestamp="1601023867157" />
     <state width="1248" height="172" key="GridCell.Tab.0.bottom" timestamp="1601018102716">
       <screen x="72" y="27" width="1294" height="741" />
     </state>
@@ -346,10 +346,10 @@
       <screen x="72" y="27" width="1294" height="741" />
     </state>
     <state width="1248" height="172" key="GridCell.Tab.0.right/72.27.1294.741@72.27.1294.741" timestamp="1601018102715" />
-    <state x="314" y="133" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1601023579120">
+    <state x="314" y="133" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1601023882938">
       <screen x="72" y="27" width="1294" height="741" />
     </state>
-    <state x="314" y="133" width="800" height="535" key="Vcs.Push.Dialog.v2/72.27.1294.741@72.27.1294.741" timestamp="1601023579120" />
+    <state x="314" y="133" width="800" height="535" key="Vcs.Push.Dialog.v2/72.27.1294.741@72.27.1294.741" timestamp="1601023882938" />
     <state x="375" y="225" key="com.intellij.ide.util.TipDialog" timestamp="1601020175915">
       <screen x="72" y="27" width="1294" height="741" />
     </state>
