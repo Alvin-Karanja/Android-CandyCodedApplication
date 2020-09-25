@@ -79,6 +79,6 @@ public class DetailActivity extends AppCompatActivity {
     }
 
     public void createShareIntent() {
-
+        Intent shareIntent = new Intent(Intent.ACTION_SEND);
     }
 }

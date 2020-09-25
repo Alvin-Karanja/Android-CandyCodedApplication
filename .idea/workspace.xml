@@ -261,7 +261,21 @@
       <option name="project" value="LOCAL" />
       <updated>1601022639972</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Override onOptionsItemSelected(MenuItem item) in the DetailActivity">
+      <created>1601023113184</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1601023113184</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Make createShareIntent()">
+      <created>1601023167110</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1601023167110</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -276,13 +290,15 @@
     <MESSAGE value="Set the Intent Data" />
     <MESSAGE value="start the activity" />
     <MESSAGE value="Create TextView Click Handler" />
-    <option name="LAST_COMMIT_MESSAGE" value="Create TextView Click Handler" />
+    <MESSAGE value="Override onOptionsItemSelected(MenuItem item) in the DetailActivity" />
+    <MESSAGE value="Make createShareIntent()" />
+    <option name="LAST_COMMIT_MESSAGE" value="Make createShareIntent()" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="189" y="27" width="1050" height="741" key="CommitChangelistDialog2" timestamp="1601023112992">
+    <state x="189" y="27" width="1050" height="741" key="CommitChangelistDialog2" timestamp="1601023167023">
       <screen x="72" y="27" width="1294" height="741" />
     </state>
-    <state x="189" y="27" width="1050" height="741" key="CommitChangelistDialog2/72.27.1294.741@72.27.1294.741" timestamp="1601023112992" />
+    <state x="189" y="27" width="1050" height="741" key="CommitChangelistDialog2/72.27.1294.741@72.27.1294.741" timestamp="1601023167023" />
     <state width="1248" height="172" key="GridCell.Tab.0.bottom" timestamp="1601018102716">
       <screen x="72" y="27" width="1294" height="741" />
     </state>
